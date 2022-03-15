@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-02-22T22:52:47.211Z",
-    "end": "2022-02-22T22:52:48.104Z",
-    "duration": 893
+    "start": "2022-03-15T03:53:13.438Z",
+    "end": "2022-03-15T03:53:13.920Z",
+    "duration": 482
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -22,7 +22,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -31,7 +31,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -40,7 +40,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -49,7 +49,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -58,8 +58,8 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -71,7 +71,7 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -80,7 +80,7 @@
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
@@ -89,7 +89,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -98,7 +98,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -107,7 +107,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
       "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
@@ -116,8 +116,8 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "file": "/home/jsidhu9/phase-1-javascript-variables-lab/test/indexTest.js",
-      "duration": 1,
+      "file": "/home/jsidhu9/Development/code/Phase-1/phase-1-javascript-variables-lab/test/indexTest.js",
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
